@@ -77,11 +77,19 @@ export class ChatUserListComponent {
 
       const userConvos = client.readQuery(options);
       const path = 'me.conversations.userConversations';
-      const userConvo = _.chain(userConvos).get(path).find(c => _.some(c.associated, ['userId', user.id])).value();
 
-      if (userConvo) {
-        return this.onNewConvo.emit(userConvo.conversation);
-      }
+console.log('userConvos',userConvos);
+console.log('path',path);
+console.log('_.chain(userConvos).get(path)',_.chain(userConvos).get(path));
+
+
+
+
+      // const userConvo = _.chain(userConvos).get(path).find(c => _.some(c.associated, ['userId', user.id])).value();
+
+      // if (userConvo) {
+      //   return this.onNewConvo.emit(userConvo.conversation);
+      // }
 
       const newConvo: Conversation = {
         id: uuid(),
