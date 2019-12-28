@@ -1,5 +1,9 @@
 # ChatQL: An AWS AppSync Chat Starter App written in Angular
 
+
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home?region=us-east-2#/deploy?repo=https://github.com/jnmdev/aws-mobile-appsync-chat-starter-angular)
+
+
 ### Quicklinks
  - [Introduction](#introduction)
  - [Features](#features)
