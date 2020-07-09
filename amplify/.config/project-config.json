@@ -1,5 +1,8 @@
 {
-    "projectName": "awsmobileappsyncchat",
+    "providers": [
+        "awscloudformation"
+    ],
+    "projectName": "jjchat2020",
     "version": "2.0",
     "frontend": "javascript",
     "javascript": {
@@ -10,8 +13,5 @@
             "BuildCommand": "npm.cmd run-script build",
             "StartCommand": "ng serve"
         }
-    },
-    "providers": [
-        "awscloudformation"
-    ]
+    }
 }

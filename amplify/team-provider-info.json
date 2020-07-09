@@ -1,15 +1,15 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-awsmobileappsyncchat-dev-195452-authRole",
-            "UnauthRoleArn": "arn:aws:iam::420407114786:role/amplify-awsmobileappsyncchat-dev-195452-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::420407114786:role/amplify-awsmobileappsyncchat-dev-195452-authRole",
+            "AuthRoleName": "amplify-jjchat2020-dev-220239-authRole",
+            "UnauthRoleArn": "arn:aws:iam::420407114786:role/amplify-jjchat2020-dev-220239-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::420407114786:role/amplify-jjchat2020-dev-220239-authRole",
             "Region": "us-east-2",
-            "DeploymentBucketName": "amplify-awsmobileappsyncchat-dev-195452-deployment",
-            "UnauthRoleName": "amplify-awsmobileappsyncchat-dev-195452-unauthRole",
-            "StackName": "amplify-awsmobileappsyncchat-dev-195452",
-            "StackId": "arn:aws:cloudformation:us-east-2:420407114786:stack/amplify-awsmobileappsyncchat-dev-195452/e2476750-284b-11ea-a262-0286ec33b064",
-            "AmplifyAppId": "d3imsk81ii9mts"
+            "DeploymentBucketName": "amplify-jjchat2020-dev-220239-deployment",
+            "UnauthRoleName": "amplify-jjchat2020-dev-220239-unauthRole",
+            "StackName": "amplify-jjchat2020-dev-220239",
+            "StackId": "arn:aws:cloudformation:us-east-2:420407114786:stack/amplify-jjchat2020-dev-220239/ab2e4890-c190-11ea-8b9a-0a9fef599330",
+            "AmplifyAppId": "d2xabwclevlns0"
         }
     }
 }
