@@ -8,6 +8,7 @@ import { Auth } from 'aws-amplify';
 @Injectable()
 export class AppsyncService {
 
+  
    // hc;
    _hc;
 
