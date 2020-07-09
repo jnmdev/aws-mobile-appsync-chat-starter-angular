@@ -4,6 +4,7 @@ import aws_exports from '../../aws-exports';
 import { AUTH_TYPE } from 'aws-appsync/lib/link/auth-link';
 import { Auth } from 'aws-amplify';
 
+
 @Injectable()
 export class AppsyncService {
 
